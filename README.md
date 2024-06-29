@@ -1,14 +1,19 @@
 
 # BlogHunt : Social Media Blog WebApplication
-# Overview
+
+## Overview
+
 This Blog App is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to perform CRUD operations on blog posts and includes authentication features.
 
-# Features
-**User Authentication:** Register and log in to manage personal blog posts securely.
-**Create Posts:** Authenticated users can create new blog entries with titles and content.
-**Read Posts:** View a list of all blog posts and individual post details.
-**Update Posts:** Edit existing blog posts, modifying the title and content.
-**Delete Posts:** Authenticated users can delete their own blog posts.
+
+## Features
+
+- **User Authentication**: Register and log in to manage personal blog posts securely.
+- **Create Posts**: Authenticated users can create new blog entries with titles and content.
+- **Read Posts**: View a list of all blog posts and individual post details.
+- **Update Posts**: Edit existing blog posts, modifying the title and content.
+- **Delete Posts**: Authenticated users can delete their own blog posts.
+
 
 ## Technologies Used
 
